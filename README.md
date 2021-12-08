@@ -27,12 +27,13 @@ I am Mohamed Tallal 😃. I am currently pursuing a Bachelor’s degree in Compu
 <h3>Things i am learning </h3>
 
 <span><img src="https://image.flaticon.com/icons/png/512/2083/2083213.png" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="30px"></span>&nbsp;
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/mohamed-tallal/mohamed-tallal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-tallal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
 </a>
 
-<br>
-<a href="https://github.com/mohamed-tallal/"><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=mohamed-tallal&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><!-- wi*quL3fcV --><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-tallal&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=ffftheme=graywhite" /></a>
+<a href="https://github.com/mohamed-tallal/mohamed-tallal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed-tallal&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="mohamed-tallal's GitHub Stats"/>
+</a>
