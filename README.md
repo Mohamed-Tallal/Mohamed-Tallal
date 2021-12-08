@@ -1,6 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/Mohamed-Tallal/Mohamed-Tallal/master/wave.gif" width="30px">
 
 I am Mohamed Tallal 😃. I am currently pursuing a Bachelor’s degree in Computer Science from [ Beni Suef University](https://www.bsu.edu.eg/).
+
 I am a senior CS student and Junior PHP & Laravel developer focused on building systems using  PHP & Laravel technologies to soaking up as much knowledge and practice as I can in an attempt to perfect my craft.
 
 I am an ambitious person that loves coding, open-source projects, and problem-solving and very happy to helping and working with peoples in our field on many projects. Also, I contribute to solving many problems in Hackerrank and Leetcode.
@@ -33,7 +34,7 @@ I am interested in artificial intelligence and working on different projects usi
 
 <span><img src="https://image.flaticon.com/icons/png/512/2083/2083213.png" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="30px"></span>&nbsp;
-<span><img src="https://img.shields.io/badge/-Docker-fff?style=flat&logo=Docker" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="30px"></span>&nbsp;
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/mohamed-tallal/mohamed-tallal">
