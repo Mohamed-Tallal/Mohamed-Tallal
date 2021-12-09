@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/Mohamed-Tallal/Mohamed-Tallal/master/wave.gif" width="30px">
 
-I am Mohamed Tallal 😃. I am currently pursuing a Bachelor’s degree in Computer Science from [ Beni Suef University](https://www.bsu.edu.eg/).
+I am Mohamed Tallal . 
 
 I am a senior CS student and Junior PHP & Laravel developer focused on building systems using  PHP & Laravel technologies to soaking up as much knowledge and practice as I can in an attempt to perfect my craft.
 
