@@ -13,8 +13,7 @@ I am interested in artificial intelligence and working on different projects usi
 
  - 🔭 I'm currently working on a lot of side projects
  - 🌱 I'm currently learning Vue js and Data science .
- - man_technologist All of my projects are available here
- - 👯 I'm looking to collaborate on full stack web apps!.
+ - <img src="https://images.unsplash.com/photo-1610389051254-64849803c8fd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80" height="8px" weight="10px"> I'm looking to collaborate on full stack web apps!.
  - 💬 Ask me about anything (I will try to help you , If i can ) 😄 . 
  - 😄 Pronouns: he/him.
 
