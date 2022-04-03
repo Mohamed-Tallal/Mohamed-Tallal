@@ -32,7 +32,7 @@ I am interested in artificial intelligence and working on different projects usi
 
 <h3>Things i am learning </h3>
 
-<span><img src="https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo-1280x720.png" width="30px"></span>&nbsp;
+<span><img src="https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo-1280x720.png" width="60px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="30px"></span>&nbsp;
 
