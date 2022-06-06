@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/Mohamed-Tallal/Mohamed-Tallal/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/Mohamed-Tallal/Mohamed-Tallal/master/wave.gif" width="10px">
 
 My name is Mohamed Tallal . 
 
