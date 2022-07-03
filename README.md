@@ -2,7 +2,7 @@
 
 My name is Mohamed Tallal . 
 
-I am a senior CS student and Mid PHP & Laravel developer focused on building systems using  PHP & Laravel technologies 
+I am a Mid PHP & Laravel developer focused on building systems using  PHP & Laravel technologies 
 
 I am an ambitious person that loves coding, open-source projects, and problem-solving and very happy to helping and working with peoples in our field on many projects. Also, I contribute to solving many problems in Hackerrank and Leetcode.
 
