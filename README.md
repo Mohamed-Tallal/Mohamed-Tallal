@@ -2,7 +2,11 @@
 
 My name is Mohamed Tallal . 
 
-I am a PHP & Laravel developer focused on building systems using  PHP & Laravel technologies 
+I am a Software Engineer
+
+As an experienced software engineer with expertise in PHP, Laravel, Symfony, and JavaScript frameworks such as Vue.js and Node.js, I have a proven track record of delivering high-quality web applications and mobile APIs. 
+I am skilled in database management using MySQL, MongoDB, and Redis, as well as cloud computing with AWS services. Additionally, I have experience with Docker, unit testing, and Git version control. 
+I am committed to creating responsive and user-friendly interfaces that exceed client expectations.
 
 I am an ambitious person that loves coding, open-source projects, and problem-solving and very happy to helping and working with peoples in our field on many projects. Also, I contribute to solving many problems in Hackerrank and Leetcode.
 
