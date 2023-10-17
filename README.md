@@ -1,8 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/Mohamed-Tallal/Mohamed-Tallal/master/wave.gif" height="30px" width="30px">
 
-My name is Mohamed Tallal . 
-
-I am a Software Engineer
+My name is Mohamed Tallal, I am a Software Engineer.
 
 As an experienced software engineer with expertise in PHP, Laravel, Symfony, and JavaScript frameworks such as Vue.js and Node.js, I have a proven track record of delivering high-quality web applications and mobile APIs. 
 I am skilled in database management using MySQL, MongoDB, and Redis, as well as cloud computing with AWS services. Additionally, I have experience with Docker, unit testing, and Git version control. 
